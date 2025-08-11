@@ -1,4 +1,4 @@
----
+-infinix hote 10 play --
 manufacturer:
     - general
 ---
